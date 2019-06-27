@@ -9,7 +9,6 @@ Time spent: **2** hours spent in total
 
 Here's a walkthrough of implemented interface:
 
-<img src='http://recordit.co/n7e8uyASqd' />
+<img src='http://recordit.co/n7e8uyASqd' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
-
